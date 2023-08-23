@@ -1,0 +1,117 @@
+<div class="container-xl py-md-3">
+    <div class="row">
+        <div id="bl-raidtl" class="col-12 bl-page">
+            <div id="bl-raidtl-info" class="card card-color p-2 justify-content-center">
+                <div class="bl-raidtl-terrain-toggle-container" style="margin-left:200px;">
+                    <div id="bl-raidtl-terrain-toggle">
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="bl-raid-studenttype-toggle">
+                            <span class="slider" style="color:white">Specials</span>
+                        </label>
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="bl-raid-terrain-toggle">
+                            <span class="slider" style="color:white">Terrain</span>
+                        </label>
+                    </div>
+                </div>
+                <div class="justify-content-center d-flex">
+                    <div class="bl-raid-buttons-container" style="width:800px">
+                        <div class="scroll-wrapper">
+                            <div class="scroll-content">
+                                <button
+                                    style="width: 150px; padding-right:10px; border: none; background-color: transparent;"
+                                    onclick="raid = 'Goz'; terrain = 'Indoor';buildTierList()">
+                                    <img src="images/raids/Goz_Button.png" style="width:150px; padding-right:10px;">
+                                </button>
+                                <button
+                                    style="width: 150px; padding-right:10px; border: none; background-color: transparent;"
+                                    onclick="raid = 'ShiroKuro'; terrain = 'Indoor';buildTierList()">
+                                    <img src="images/raids/ShiroKuro_Button.png"
+                                        style="width:150px; padding-right:10px;">
+                                </button>
+                                <button
+                                    style="width: 150px; padding-right:10px; border: none; background-color: transparent;"
+                                    onclick="raid = 'Hieronymus'; terrain = 'Urban';buildTierList()">
+                                    <img src="images/raids/Hieronymus_Button.png"
+                                        style="width:150px; padding-right:10px;">
+                                </button>
+                                <button
+                                    style="width: 150px; padding-right:10px; border: none; background-color: transparent;"
+                                    onclick="raid = 'Perorozilla'; terrain = 'Outdoor';buildTierList()">
+                                    <img src="images/raids/Perorozilla_Button.png"
+                                        style="width:150px; padding-right:10px;">
+                                </button>
+                                <button
+                                    style="width: 150px; padding-right:10px; border: none; background-color: transparent;"
+                                    onclick="raid = 'Binah'; terrain = 'Urban';buildTierList()">
+                                    <img src="images/raids/Binah_Button.png"
+                                        style="width:150px; padding-right:10px;">
+                                </button>
+                                <button
+                                    style="width: 150px; padding-right:10px; border: none; background-color: transparent;"
+                                    onclick="raid = 'Hod'; terrain = 'Urban';buildTierList()">
+                                    <img src="images/raids/Hod_Button.png"
+                                        style="width:150px; padding-right:10px;">
+                                </button>
+                                <button
+                                    style="width: 150px; padding-right:10px; border: none; background-color: transparent;"
+                                    onclick="raid = 'Chesed'; terrain = 'Outdoor';buildTierList()">
+                                    <img src="images/raids/Chesed_Button.png"
+                                        style="width:150px; padding-right:10px;">
+                                </button>
+                                <button style="width: 150px; border: none; background-color: transparent;"
+                                    onclick="raid = 'Kaiten'; terrain = 'Urban';buildTierList()">
+                                    <img src="images/raids/Kaiten_Button.png"
+                                        style="width:150px; padding-right:10px;">
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <span id="bl-raidtl-title" class="justify-content-center d-flex" style="color: white; font-size:24px;">Insane Goz
+                    Indoor</span>
+                <div class="card-body justify-content-center d-flex">
+                    <!-- card content-->
+                    <div id="raidtl-table" class="p-2 card bg-dark">
+                        <div id="bl-tier-sp" class="row">
+                            <div class="col-3" style="width:125px; height:125px">
+                                <img src="images/icons/SP_tier.png" class="bl-raidtl-student" style="height:120px">
+                            </div>
+                            <div id="bl-tier-sp-list" class="col-9" style="width:770px">
+                            </div>
+                        </div>
+                        <div id="bl-tier-s" class="row">
+                            <div class="col-3" style="width:125px; height:125px">
+                                <img src="images/icons/S_tier.png" class="bl-raidtl-student" style="height:120px">
+                            </div>
+                            <div id="bl-tier-s-list" class="col-9" style="width:770px">
+
+                            </div>
+                        </div>
+                        <div id="bl-tier-a" class="row">
+                            <div class="col-3" style="width:125px; height:125px">
+                                <img src="images/icons/A_tier.png" class="bl-raidtl-student" style="height:120px">
+                            </div>
+                            <div id="bl-tier-a-list" class="col-9" style="width:770px">
+                            </div>
+                        </div>
+                        <div id="bl-tier-b" class="row">
+                            <div class="col-3" style="width:125px; height:125px">
+                                <img src="images/icons/B_tier.png" class="bl-raidtl-student" style="height:120px">
+                            </div>
+                            <div id="bl-tier-b-list" class="col-9" style="width:770px">
+                            </div>
+                        </div>
+                        <div id="bl-tier-c" class="row">
+                            <div class="col-3" style="width:125px; height:125px">
+                                <img src="images/icons/C_tier.png" class="bl-raidtl-student" style="height:120px">
+                            </div>
+                            <div id="bl-tier-c-list" class="col-9" style="width:770px">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+.bl-raidtl-student{
+    padding: 5px;
+}
+
+.bl-raid-buttons-container {
+    overflow-x: scroll;
+    white-space: nowrap;
+    padding-bottom: 5px;
+  }
+  
+::-webkit-scrollbar {
+width: 10px;
+height: 7px;
+}
+
+::-webkit-scrollbar-track {
+background-color: #00000000;
+border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+background-color: #050a1c61;
+border-radius: 5px;
+}

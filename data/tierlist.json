@@ -1,0 +1,261 @@
+[
+    {
+        "Goz": {
+            "Indoor":{
+                "Strikers": {
+                    "S+": ["Izuna_Swimsuit","Yuuka_Track"],
+                    "S": ["Azusa_Swimsuit","Mutsuki_NewYear","Wakamo","Noa","Utaha_Cheerleader","Hasumi_Track"],
+                    "A": ["Aris","Tsurugi_Swimsuit","Tsubaki","Haruna","Chise","Shiroko_Cycling","Karin_Bunny","Junko_NewYear","Koyuki"],
+                    "B": ["Iori","Chise_Swimsuit"],
+                    "C": ["Izuna","Michiru","Asuna","Asuna_Bunny"]
+                },
+                "Specials": {
+                    "S+": ["Ako","Himari"],
+                    "S": ["Shizuko_Swimsuit","Fuuka_NewYear","Akane_Bunny"],
+                    "A": ["Kotama","Ayane_Swimsuit","Karin","Saki","Serina","Hibiki","Hanae","Saya_Casual","Kaede"],
+                    "B": ["Iroha","Mashiro_Swimsuit"],
+                    "C": ["Nodoka_Hotspring"]
+                }
+            }
+        },
+        "ShiroKuro": {
+            "Indoor":{
+                "Strikers": {
+                    "S+": ["Izuna"],
+                    "S": ["Michiru","Azusa_Swimsuit","Izuna_Swimsuit","Wakamo","Haruna","Mimori","Aris_Maid"],
+                    "A": ["Asuna","Yuuka_Track","Hoshino_Swimsuit","Kotori","Chinatsu_Hotspring","Serina_Christmas","Cherino","Hifumi","Chise","Shiroko_Cycling","Junko_NewYear"],
+                    "B": ["Tsurugi_Swimsuit","Junko","Haruka","Eimi"],
+                    "C": ["Shun","Maki","Akane","Tsubaki","Mutsuki","Aris","Karin_Bunny","Asuna_Bunny"]
+                },
+                "Specials": {
+                    "S+": ["Shizuko","Himari","Ako"],
+                    "S": ["Fuuka_NewYear","Shizuko_Swimsuit"],
+                    "A": ["Kotama","Karin","Saki","Serina","Hanae","Airi","Shimiko","Fuuka"],
+                    "B": ["Sena","Chinatsu","Hibiki"],
+                    "C": ["Ayane_Swimsuit","Hatsune_Miku","Hanako","Cherino_Hotspring","Saya_Casual","Mashiro_Swimsuit","Utaha","Saya"]
+                }
+            },
+            "Urban":{
+                "Strikers":{
+                    "S+": ["Izuna"],
+                    "S": ["Michiru","Azusa_Swimsuit","Izuna_Swimsuit","Wakamo","Haruna","Mimori","Aris_Maid"],
+                    "A": ["Asuna","Yuuka_Track","Hoshino_Swimsuit","Kotori","Chinatsu_Hotspring","Serina_Christmas","Cherino","Hifumi","Chise","Shiroko_Cycling","Junko_NewYear"],
+                    "B": ["Tsurugi_Swimsuit","Junko","Haruka","Eimi"],
+                    "C": ["Shun","Maki","Akane","Tsubaki","Mutsuki","Aris","Karin_Bunny","Asuna_Bunny"]
+                },
+                "Specials":{
+                    "S+": ["Shizuko","Himari","Ako"],
+                    "S": ["Fuuka_NewYear","Shizuko_Swimsuit"],
+                    "A": ["Kotama","Karin","Saki","Serina","Hanae","Airi","Shimiko","Fuuka"],
+                    "B": ["Sena","Chinatsu","Hibiki"],
+                    "C": ["Ayane_Swimsuit","Hatsune_Miku","Hanako","Cherino_Hotspring","Saya_Casual","Mashiro_Swimsuit","Utaha","Saya"]
+                }
+            }
+        },
+        "Hieronymus":{
+            "Indoor":{
+                "Strikers":
+                {
+                    "S+":["Azusa","Hoshino_Swimsuit"],
+                    "S":["Koharu","Kokona","Toki","Mari_Track","Atsuko","Misaki","Saori","Aru","Yuuka_Track"],
+                    "A":["Iori_Swimsuit","Ui","Natsu","Nonomi_Swimsuit","Izumi","Hoshino","Akari","Tsubaki","Hina","Izuna_Swimsuit"],
+                    "B":["Tomoe","Shun","Cherino","Shiroko","Wakamo"],
+                    "C":["Akane","Yuuka"]
+                },
+                "Specials": {
+                    "S+": ["Ako","Himari"],
+                    "S": ["Fuuka_NewYear","Nodoka_Hotspring","Hiyori","Nagisa"],
+                    "A": ["Shizuko_Swimsuit","Serina","Hibiki","Hanae","Hanako","Ayane","Chinatsu"],
+                    "B": ["Kotama","Karin","Saki","Sena"],
+                    "C": ["Hatsune_Miku","Mashiro"]
+                }
+            },
+            "Urban":{
+                "Strikers":{
+                    "S+":["Azusa","Hoshino_Swimsuit"],
+                    "S":["Koharu","Kokona","Toki","Mari_Track","Atsuko","Nonomi_Swimsuit","Misaki","Aru","Yuuka_Track"],
+                    "A":["Iori_Swimsuit","Ui","Natsu","Izumi","Hoshino","Akari","Tsubaki","Hina","Izuna_Swimsuit"],
+                    "B":["Tomoe","Shun","Cherino","Shiroko","Wakamo","Saori"],
+                    "C":["Akane","Yuuka"]
+                },
+                "Specials": {
+                    "S+": ["Ako","Himari"],
+                    "S": ["Fuuka_NewYear","Nodoka_Hotspring","Hiyori","Nagisa"],
+                    "A": ["Shizuko_Swimsuit","Serina","Hibiki","Hanae","Hanako","Ayane","Chinatsu"],
+                    "B": ["Kotama","Karin","Saki","Sena"],
+                    "C": ["Hatsune_Miku","Mashiro"]
+                }
+            }
+        },
+        "Perorozilla":{
+            "Outdoor":{
+                "Strikers":{
+                    "S+":["Natsu"],
+                    "S":["Karin_Bunny","Mutsuki_NewYear","Reisa"],
+                    "A":["Ui","Wakamo","Azusa_Swimsuit","Aris","Asuna_Bunny","Hoshino","Haruna","Chise","Shiroko_Cycling"],
+                    "B":["Izuna_Swimsuit","Yuuka","Koharu","Cherino","Eimi","Marina","Junko_NewYear","Mine"],
+                    "C":["Hinata","Chise_Swimsuit","Iori"]
+                },
+                "Specials": {
+                    "S+": ["Himari","Ako"],
+                    "S": ["Iroha","Shizuko_Swimsuit","Fuuka_NewYear"],
+                    "A": ["Kotama","Nodoka_Hotspring","Mari"],
+                    "B": ["Karin"],
+                    "C": ["Hatsune_Miku","Hanako","Ayane"]
+                }
+            },
+            "Indoor":{
+                "Strikers":{
+                    "S+":["Natsu"],
+                    "S":["Karin_Bunny","Mutsuki_NewYear","Reisa"],
+                    "A":["Ui","Wakamo","Azusa_Swimsuit","Aris","Asuna_Bunny","Hoshino","Haruna","Chise","Shiroko_Cycling"],
+                    "B":["Izuna_Swimsuit","Yuuka","Koharu","Cherino","Eimi","Marina","Junko_NewYear","Mine"],
+                    "C":["Iori"]
+                },
+                "Specials": {
+                    "S+": ["Himari","Ako"],
+                    "S": ["Iroha","Shizuko_Swimsuit","Fuuka_NewYear"],
+                    "A": ["Kotama","Nodoka_Hotspring","Mari"],
+                    "B": ["Karin"],
+                    "C": ["Hatsune_Miku","Hanako","Ayane"]
+                }
+            }
+        },
+        "Binah":{
+            "Outdoor":{
+                "Strikers":{
+                    "S+":["Maki","Akane"],
+                    "S":["Mika","Kazusa"],
+                    "A":["Cherino","Ui","Azusa_Swimsuit","Yuuka_Track","Chinatsu_Hotspring","Neru","Yuzu","Hasumi","Izuna_Swimsuit","Midori","Hoshino_Swimsuit","Pina","Eimi"],
+                    "B":["Junko","Iori","Hina","Shun","Kotori","Haruka","Azusa","Miyu"],
+                    "C":["Hifumi","Fubuki","Momoi"]
+                },
+                "Specials": {
+                    "S+": ["Himari","Ako"],
+                    "S": ["Shizuko_Swimsuit","Fuuka_NewYear"],
+                    "A": ["Kotama","Ayane_Swimsuit","Karin","Saki","Serina","Hibiki","Nodoka_Hotspring","Hiyori","Haruka_NewYear"],
+                    "B": ["Sena","Hanae","Airi"],
+                    "C": ["Hatsune_Miku","Hanako","Ayane"]
+                }
+            },
+            "Urban":{
+                "Strikers":{
+                    "S+":["Maki","Akane"],
+                    "S":["Mika","Kazusa","Yuzu"],
+                    "A":["Cherino","Ui","Azusa_Swimsuit","Yuuka_Track","Iori","Hasumi","Izuna_Swimsuit","Hoshino_Swimsuit","Pina","Eimi"],
+                    "B":["Chinatsu_Hotspring","Midori","Junko","Hina","Shun","Kotori","Haruka","Azusa","Miyu"],
+                    "C":["Hifumi","Fubuki","Momoi","Neru"]
+                },
+                "Specials": {
+                    "S+": ["Himari","Ako"],
+                    "S": ["Shizuko_Swimsuit","Fuuka_NewYear"],
+                    "A": ["Kotama","Ayane_Swimsuit","Karin","Saki","Serina","Hibiki","Nodoka_Hotspring","Hiyori","Haruka_NewYear"],
+                    "B": ["Sena","Hanae","Airi"],
+                    "C": ["Hatsune_Miku","Hanako","Ayane"]
+                }
+            }
+        },
+        "Hod":{
+            "Urban":{
+                "Strikers":{
+                    "S+":["Mika","Fubuki"],
+                    "S":["Kazusa","Miyu","Iori","Yuzu","Maki","Kayoko"],
+                    "A":["Chinatsu_Hotspring","Midori","Cherino","Ui","Pina","Shun","Hifumi","Tsubaki","Hoshino","Wakamo_Swimsuit","Miyako"],
+                    "B":["Hina","Shun","Kotori","Haruka","Koharu","Shiroko","Neru_Bunny","Reisa"],
+                    "C":["Hina_Swimsuit","Izumi_Swimsuit"]
+                },
+                "Specials":{
+                    "S+": ["Himari","Ako"],
+                    "S": ["Shizuko_Swimsuit","Fuuka_NewYear","Saki","Chihiro","Kanna"],
+                    "A": ["Kotama","Karin"],
+                    "B": ["Ayane_Swimsuit","Serina","Hare","Yoshimi"],
+                    "C": ["Sena","Hatsune_Miku","Hanako","Ayane"]
+                }
+            },
+            "Indoor":{
+                "Strikers":{
+                    "S+":["Mika","Fubuki"],
+                    "S":["Kazusa","Miyu","Iori","Yuzu","Maki","Kayoko"],
+                    "A":["Chinatsu_Hotspring","Midori","Cherino","Ui","Pina","Shun","Hifumi","Tsubaki","Hoshino","Wakamo_Swimsuit","Miyako"],
+                    "B":["Hina","Shun","Kotori","Haruka","Koharu","Shiroko","Neru_Bunny","Reisa"],
+                    "C":["Hina_Swimsuit","Izumi_Swimsuit"]
+                },
+                "Specials":{
+                    "S+": ["Himari","Ako"],
+                    "S": ["Shizuko_Swimsuit","Fuuka_NewYear","Saki","Chihiro","Kanna"],
+                    "A": ["Kotama","Karin"],
+                    "B": ["Ayane_Swimsuit","Serina","Hare","Yoshimi"],
+                    "C": ["Sena","Hatsune_Miku","Hanako","Ayane"]
+                }
+            }
+        },
+        "Chesed":{
+            "Outdoor":{
+                "Strikers":{
+                    "S+":["Momoi","Iori"],
+                    "S":["Midori","Maki","Mika","Cherino","Hasumi","Hoshino_Swimsuit","Sumire","Aru_NewYear"],
+                    "A":["Ui","Yuuka_Track","Tsubaki","Marina","Nonomi","Hoshino","Tsurugi"],
+                    "B":["Yuzu","Hina","Hifumi","Koharu"],
+                    "C":["Izuna_Swimsuit"]
+                },
+                "Specials":{
+                    "S+": ["Himari","Ako"],
+                    "S": ["Shizuko_Swimsuit","Fuuka_NewYear","Serika_NewYear","Moe"],
+                    "A": ["Saki","Kotama","Karin","Sena","Hibiki","Saya_Casual","Hifumi_Swimsuit","Haruka_NewYear"],
+                    "B": ["Serina","Nodoka_Hotspring","Hanae"],
+                    "C": ["Ayane_Swimsuit","Hatsune_Miku","Hanako","Ayane"]
+                }
+            },
+            "Indoor":{
+                "Strikers":{
+                    "S+":["Momoi","Iori"],
+                    "S":["Midori","Mika","Cherino","Hoshino_Swimsuit","Sumire","Aru_NewYear"],
+                    "A":["Ui","Yuuka_Track","Hasumi","Maki","Tsubaki","Marina","Hina","Nonomi","Hoshino","Tsurugi"],
+                    "B":["Yuzu","Hifumi","Koharu","Izuna_Swimsuit"],
+                    "C":["Hifumi"]
+                },
+                "Specials":{
+                    "S+": ["Himari","Ako"],
+                    "S": ["Shizuko_Swimsuit","Fuuka_NewYear","Serika_NewYear","Moe"],
+                    "A": ["Saki","Kotama","Karin","Sena","Hibiki","Saya_Casual","Hifumi_Swimsuit","Haruka_NewYear"],
+                    "B": ["Serina","Nodoka_Hotspring","Hanae"],
+                    "C": ["Ayane_Swimsuit","Hatsune_Miku","Hanako","Ayane"]
+                }
+            }
+        },
+        "Kaiten":{
+            "Outdoor":{
+                "Strikers":{
+                    "S+":[],
+                    "S":["Hina","Shun","Shiroko","Iori_Swimsuit","Mutsuki","Aru","Haruna_NewYear","Toki_Bunny"],
+                    "A":["Cherino","Yuuka_Track","Ui","Izuna_Swimsuit","Hasumi","Mine","Hoshino_Swimsuit","Tsukuyo","Akari","Mimori","Serika","Pina","Kotori","Haruka","Eimi","Tsubaki","Hina_Swimsuit","Mutsuki_NewYear","Shun_Small"],
+                    "B":["Marina","Koharu","Chinatsu_Hotspring","Izumi_Swimsuit","Wakamo","Izuna","Misaki","Izumi"],
+                    "C":["Azusa","Tomoe"]
+                },
+                "Specials":{
+                    "S+": ["Himari","Ako"],
+                    "S": ["Shizuko_Swimsuit","Fuuka_NewYear","Serina","Hibiki","Nodoka_Hotspring"],
+                    "A": ["Kotama","Karin","Saki","Sena","Cherino_Hotspring"],
+                    "B": ["Hanae","Iroha","Juri"],
+                    "C": ["Hatsune_Miku","Hanako","Ayane","Hiyori"]
+                }
+            },
+            "Urban":{
+                "Strikers":{
+                    "S+":[],
+                    "S":["Hina","Shun","Shiroko","Iori_Swimsuit","Mutsuki","Aru","Haruna_NewYear","Toki_Bunny"],
+                    "A":["Cherino","Yuuka_Track","Ui","Izuna_Swimsuit","Hasumi","Mine","Hoshino_Swimsuit","Tsukuyo","Akari","Mimori","Serika","Pina","Kotori","Haruka","Eimi","Tsubaki","Hina_Swimsuit","Mutsuki_NewYear","Shun_Small"],
+                    "B":["Marina","Koharu","Chinatsu_Hotspring","Izumi_Swimsuit","Wakamo","Izuna","Misaki","Izumi"],
+                    "C":["Azusa","Tomoe"]
+                },
+                "Specials":{
+                    "S+": ["Himari","Ako"],
+                    "S": ["Shizuko_Swimsuit","Fuuka_NewYear","Serina","Hibiki","Nodoka_Hotspring"],
+                    "A": ["Kotama","Karin","Saki","Sena","Cherino_Hotspring"],
+                    "B": ["Hanae","Iroha","Juri"],
+                    "C": ["Hatsune_Miku","Hanako","Ayane","Hiyori"]
+                }
+            }
+        }
+    }
+]

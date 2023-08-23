@@ -1,0 +1,16 @@
+body {
+    background-color: var(--col-theme-background);
+    overflow: auto scroll;
+
+    .ba-tooltip{
+        border-radius: 0.25rem;
+    }
+}
+
+.card-color{
+    background-color: var(--col-theme-background);
+}
+
+.ranking-card-font{
+    font-family:RankingsCard, Arial;
+}

@@ -1,0 +1,40 @@
+// Essentially sass functions
+
+$break-xs: 370px;
+$break-sm: 576px;
+$break-md: 768px;
+$break-lg: 992px;
+$break-xl: 1200px;
+$break-xxl: 1400px;
+
+@mixin promote-layer {
+    // used to force rendering of the element to a new layer
+    // improves performance in places and prevent certain rendering bugs
+    will-change: transform;
+    transform: translateZ(0);
+}
+
+@mixin backdrop-filter($filter) {
+    backdrop-filter: $filter;
+    -webkit-backdrop-filter: $filter;
+}
+
+@mixin sm-down() {
+    @media only screen and (max-width: ($break-md - 1px)) {
+        @content;
+    }
+}
+
+@mixin transition($props...) {
+    $transitions: ();
+    @each $prop in $props {
+        $transitions: append($transitions, $prop ease var(--var-animation-duration) 0s, $separator: comma)
+    }
+    transition: $transitions;
+}
+
+@mixin flex($align, $justify) {
+    display: flex;
+    align-items: $align;
+    justify-content: $justify;
+}

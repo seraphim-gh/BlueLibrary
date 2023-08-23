@@ -1,0 +1,42 @@
+.selection-grid {
+
+    display: grid;
+    gap: var(--var-grid-gap);
+
+    font-size: 0px;
+    text-align: center;
+
+    grid-template-columns: repeat(auto-fill, minmax(var(--var-grid-card-width), 1fr));
+
+    &.selection-grid-flex {
+        @include flex(center, center);
+        flex-wrap: wrap;
+
+        .selection-grid-card {
+            margin: 0 !important;
+        }
+    }
+
+    &.selection-grid-flex-left
+    {
+        @include flex(center, center);
+        flex-wrap: wrap;
+        justify-content: left;
+        .selection-grid-card {
+            margin: 0 !important;
+        }
+    }
+
+    .grid-text {
+        font-size: 1rem;
+        grid-column: 1 / -1;
+        margin: 0;
+    }
+
+    &.student {
+        --var-grid-gap: 0.6rem;
+        --var-grid-card-width: 100px;
+        --var-grid-card-height: 113px;
+    }
+
+}
